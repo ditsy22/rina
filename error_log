@@ -1,0 +1,14 @@
+[05-Oct-2020 10:46:21 Asia/Jakarta] {"transaction_details":{"order_id":841256254,"gross_amount":"560000"},"customer_details":{"first_name":"Muhammad Taufik Hidayat","email":"taufikyoungman@gmail.com","phone":"0855555555"},"credit_card":{"secure":true},"expiry":{"start_time":"2020-10-05 10:46:21 +0700","unit":"hour","duration":4}}
+[05-Oct-2020 10:46:21 Asia/Jakarta] 6dfaa6c6-d2f7-4129-beb5-94ff9b0564cb
+[05-Oct-2020 10:47:44 Asia/Jakarta] {"transaction_details":{"order_id":378829321,"gross_amount":"560000"},"customer_details":{"first_name":"Muhammad Taufik Hidayat","email":"taufikyoungman@gmail.com","phone":"0855555555"},"credit_card":{"secure":true},"expiry":{"start_time":"2020-10-05 10:47:44 +0700","unit":"hour","duration":4}}
+[05-Oct-2020 10:47:44 Asia/Jakarta] 15b5d131-ba6f-4704-ae7a-ae287c999c37
+[05-Oct-2020 10:49:58 Asia/Jakarta] {"transaction_details":{"order_id":1656943853,"gross_amount":"560000"},"customer_details":{"first_name":"Muhammad Taufik Hidayat","email":"taufikyoungman@gmail.com","phone":"0855555555"},"credit_card":{"secure":true},"expiry":{"start_time":"2020-10-05 10:49:58 +0700","unit":"hour","duration":4}}
+[05-Oct-2020 10:49:58 Asia/Jakarta] 6e73718f-9164-4773-974c-6801f9d2611c
+[05-Oct-2020 10:52:05 Asia/Jakarta] {"transaction_details":{"order_id":2140570744,"gross_amount":"560000"},"customer_details":{"first_name":"Muhammad Taufik Hidayat","email":"taufikyoungman@gmail.com","phone":"0855555555"},"credit_card":{"secure":true},"expiry":{"start_time":"2020-10-05 10:52:05 +0700","unit":"hour","duration":4}}
+[05-Oct-2020 10:52:05 Asia/Jakarta] 40d4b9a3-4e5c-44b1-903a-b35f75a502ff
+[05-Oct-2020 13:45:16 Asia/Jakarta] {"transaction_details":{"order_id":827107715,"gross_amount":"112000"},"customer_details":{"first_name":"Slamet Widodo","email":"slametwidodo@polsri.ac.id","phone":"0855555555"},"credit_card":{"secure":true},"expiry":{"start_time":"2020-10-05 13:45:16 +0700","unit":"hour","duration":4}}
+[05-Oct-2020 13:45:16 Asia/Jakarta] 3211051b-4771-4e75-8b85-7e16c2d035ef
+[07-Oct-2020 11:21:03 Asia/Jakarta] {"transaction_details":{"order_id":324033732,"gross_amount":"118000"},"customer_details":{"first_name":"Muhammad Taufik Hidayat","email":"taufikyoungman@gmail.com","phone":"0855555555"},"credit_card":{"secure":true},"expiry":{"start_time":"2020-10-07 11:21:03 +0700","unit":"hour","duration":4}}
+[07-Oct-2020 11:21:03 Asia/Jakarta] 4459e94b-9749-49e8-8c2b-d87f0aeedc67
+[10-Oct-2020 12:17:12 Asia/Jakarta] {"transaction_details":{"order_id":195110858,"gross_amount":"59000"},"customer_details":{"first_name":"Muhammad Taufik Hidayat","email":"taufikyoungman@gmail.com","phone":"0855555555"},"credit_card":{"secure":true},"expiry":{"start_time":"2020-10-10 12:17:12 +0700","unit":"hour","duration":4}}
+[10-Oct-2020 12:17:13 Asia/Jakarta] c4ac707b-fa1c-4eda-9e94-e7570338cd23
